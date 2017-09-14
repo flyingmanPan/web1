@@ -1,0 +1,18 @@
+h1{
+    font-family: "Calibri","sans-serif";
+    background: #eceff1;
+    color:#039be5 ;
+    font-size: 22pt;
+}
+h2 {
+    font-family: "Calibri Light","sans-serif";
+    font-size: 18pt;
+    background: #f0f0f0;
+    text-decoration:underline;
+    color: #A4A400;
+}
+p {
+    color: #404040 ;
+    font-family: "Calibri Light","serif";
+    font-size: 11pt;
+}
